@@ -1,0 +1,64 @@
+{
+  "1436764588598235290": {
+    "queueChannel": "1437164091818119340",
+    "resultsChannel": "1437164056652943552",
+    "controlChannel": "1438859509744406679",
+    "ticketsCategory": "1438232875702030367",
+    "queueMessageId": "1439184699300905000",
+    "controlMessageId": "1439184698042482759"
+  },
+  "1384476813568249868": {
+    "queueChannel": "1393614287968276500",
+    "resultsChannel": "1393619505975922891",
+    "controlChannel": "1438864785981575345",
+    "ticketsCategory": "1438870970545864774",
+    "queueMessageId": "1438871328139771986",
+    "controlMessageId": "1438871327288328272"
+  },
+  "1412778276551921775": {
+    "queueChannel": "1412778276564242449",
+    "resultsChannel": "1412778276564242449",
+    "controlChannel": "1412778276564242449",
+    "ticketsCategory": "1412778276564242443",
+    "queueMessageId": "1440664176086356031",
+    "controlMessageId": "1440664174408499292",
+    "logsChannel": "1412778276564242449",
+    "adminRoleId": "1438906799745925181"
+  },
+  "1365675265560154162": {
+    "queueChannel": "1438159262709973155",
+    "resultsChannel": "1438181550675067021",
+    "controlChannel": "1438915447243411547",
+    "ticketsCategory": "1440376023349723228",
+    "queueMessageId": "1440719747321696297",
+    "controlMessageId": "1440719745128337518",
+    "logsChannel": "1440376274273960048",
+    "adminRoleId": "1438171445539897406"
+  },
+  "1439411141372543099": {
+    "queueChannel": "1439568050805538877",
+    "resultsChannel": "1439568097194410106",
+    "controlChannel": "1439568222071427113",
+    "ticketsCategory": "1439568542386098256",
+    "queueMessageId": "1439568898478575617",
+    "controlMessageId": "1439568897450840075"
+  },
+  "1437013826230030428": {
+    "queueChannel": "1439717477624844288",
+    "resultsChannel": "1439717404337770619",
+    "controlChannel": "1439717532729737256",
+    "ticketsCategory": "1439717311480201286",
+    "queueMessageId": "1439718410245115964",
+    "controlMessageId": "1439718402397704243"
+  },
+  "1355954642235949246": {
+    "queueChannel": "1437226947598876733",
+    "resultsChannel": "1437226947598876733",
+    "controlChannel": "1437226947598876733",
+    "ticketsCategory": "1355954642235949248",
+    "queueMessageId": "1440379366449217750",
+    "controlMessageId": "1440379364427694223",
+    "logsChannel": "1376222204416753716",
+    "adminRoleId": "1355954642235949246"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nytier-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord", "bot", "queue", "evaluation"],
+  "author": "",
+  "license": "ISC",
+  "description": "NyTier - Discord bot for managing player evaluation queues",
+  "dependencies": {
+    "discord.js": "^14.24.2"
+  }
+}
